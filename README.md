@@ -184,14 +184,3 @@ Electrical Engineering (Communications) Student — Iran University of Science a
 
 🌐 **GitHub:** [MohammadrezaAfraz](https://github.com/MohammadrezaAfraz)
 
----
-
-## ⭐ Support
-
-If you find this project useful, consider giving it a **star** ⭐ on GitHub. It helps the project gain visibility and motivates further development.
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**.
