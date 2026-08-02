@@ -4,7 +4,6 @@
 ![Qt](https://img.shields.io/badge/Qt-6-brightgreen.svg)
 ![CMake](https://img.shields.io/badge/CMake-3.16+-orange.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 A modular and scalable **Ultimate Tic-Tac-Toe desktop application** developed using **Modern C++17** and the **Qt6 Framework**.  
 The project is designed with a strong focus on **object-oriented architecture**, **event-driven GUI development**, and **clean separation between game logic and presentation layers**.
