@@ -165,7 +165,7 @@ If you would like to improve the project, feel free to:
 
 ## 👨‍💻 Author
 
-**Mohammad Reza Afraz**
+**Mohammadreza Afraz**
 
 Electrical Engineering (Communications) Student — Iran University of Science and Technology (IUST)
 
