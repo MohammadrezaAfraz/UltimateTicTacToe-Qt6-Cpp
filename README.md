@@ -116,14 +116,12 @@ Add screenshots to make the repository visually attractive.
 
 ```text
 screenshots/
-├── menu.png
 └── gameplay.png
 ```
 
 Then uncomment the following lines:
 
 ```markdown
-![Main Menu](screenshots/menu.png)
 ![Gameplay](screenshots/gameplay.png)
 ```
 
